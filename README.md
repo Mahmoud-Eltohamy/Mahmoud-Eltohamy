@@ -1,7 +1,29 @@
 ### Hello Everyone
 
 I'm a Test Automation Architect/DevOps/Cloud Consultant with a strong background in Test Automation Frameworks, CI/CD, IAC, AI and Cloud Technologies.
-You can find me on LinkedIn: [![](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mahmoudeltohamy/), YouTube: [![](https://img.shields.io/youtube/channel/views/UCqakQNKkL5vTh-DzIEu_0IQ?style=social&logo=youtube)](https://youtube.com/@mahmoudeltohamy366?si=RlP4SKKKNsI93Mzg), and Medium [![](https://img.shields.io/badge/Medium-Blogs-orange?style=social&logo=medium)](https://medium.com/@mahmoud.mohammed.elhady)
+#### Contacts
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/mahmoudeltohamy/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" />
+      </a>
+    </td>
+    <td>
+      <a href="https://youtube.com/@mahmoudeltohamy366?si=RlP4SKKKNsI93Mzg">
+        <img src="https://img.shields.io/youtube/channel/views/UCqakQNKkL5vTh-DzIEu_0IQ?style=social&logo=youtube" />
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@mahmoud.mohammed.elhady">
+        <img src="https://img.shields.io/badge/Medium-Blogs-orange?style=social&logo=medium" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 ## Tools & Technologies
 
 Automation with JS Application|Automation with Java frameworks|Other automation frameworks|API Automation|Scriptless Tools|Mobile Automation|Service Virtualization
