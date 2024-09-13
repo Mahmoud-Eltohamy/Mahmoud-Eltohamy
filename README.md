@@ -38,5 +38,3 @@ Automation with JS Application|Automation with Java frameworks|Other automation 
 <a href="https://github.com/ghoshasish99/ghoshasish99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Eltohamy&layout=compact" />
 </a>
-
-## Some of my Medium Articles  
