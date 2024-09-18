@@ -104,10 +104,10 @@ I'm a Test Automation Architect/DevOps/Cloud Consultant with a strong background
 
 ## GitHub Stats
 
-<a href="https://github.com/ghoshasish99/ghoshasish99">
+<a href="https://github.com/Mahmoud-Eltohamy/Mahmoud-Eltohamy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Eltohamy&show_icons=true" alt="mahmoud-eltohamy's GitHub Stats" />
 </a>
 
-<a href="https://github.com/ghoshasish99/ghoshasish99">
+<a href="https://github.com/Mahmoud-Eltohamy/Mahmoud-Eltohamy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Eltohamy&layout=compact" />
 </a>
