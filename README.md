@@ -6,7 +6,7 @@ I'm an Automation Architect/DevOps/Cloud Consultant with a strong background in 
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/mahmoudeltohamy/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" />
+        <img src="https://img.shields.io/badge/LinkedIn-blue" />
       </a>
     </td>
     <td>
