@@ -1,6 +1,6 @@
 ### Hello Everyone
 
-I'm an Automation Architect/DevOps/Cloud Consultant with a strong background in Test Automation Frameworks, CI/CD, IAC, AI and Cloud Technologies.
+I'm an Automation Architect/DevOps/Cloud Consultant with a strong background in Automation Frameworks, CI/CD, IAC, AI and Cloud Technologies.
 #### Contacts
 <table>
   <tr>
