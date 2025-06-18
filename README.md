@@ -104,7 +104,7 @@ I'm an Automation Architect/DevOps/Cloud Consultant with a strong background in 
 
 ## GitHub Stats
 
-<a href="https://github.com/Mahmoud-Eltohamy/Mahmoud-Eltohamy">
+<a href="https://github.com/Mahmoud-Eltohamy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Eltohamy&show_icons=true" alt="mahmoud-eltohamy's GitHub Stats" />
 </a>
 
